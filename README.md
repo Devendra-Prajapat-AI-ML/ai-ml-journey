@@ -36,6 +36,7 @@ To build strong fundamentals and become job-ready in AI/ML.
 - **Feature Scaling:** `StandardScaler` का इस्तेमाल करके 'Salary' और 'Age' जैसे अलग-अलग रेंज वाले डेटा को एक ही स्केल पर लाना सीखा।
 - **Code implementation:** `sklearn` लाइब्रेरी का इस्तेमाल करके डेटा को फिट और ट्रांसफॉर्म किया।
 
+"Day 4: Data Preprocessing on Titanic dataset. Handled missing values (Age), dropped irrelevant features (Cabin), and      performed Label Encoding (Sex)."
 ---
 
 ## 🛠️ Tools I'm using:
