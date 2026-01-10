@@ -1,0 +1,29 @@
+# Day 4: Marks Analyzer Mini-Project
+
+# Step 1: Empty list
+import pandas as pd
+marks = []
+
+# Step 2: User input
+for i in range(6):
+    x = int(input("Enter your marks: "))
+    marks.append(x)
+
+# Step 3: Total marks calculate
+total = 0
+for mark in marks:
+    total += mark
+
+# Step 4: Print total
+print("Total marks:", total)
+
+# Step 5: Print even marks
+print("Even marks in the list:")
+for mark in marks:
+    if mark % 2 == 0:
+        print(mark)
+
+# Step 6: Check for marks greater than 50
+for mark in marks:
+    if mark > 50:
+        print("Congratulations! You scored more than 50 in one of the subjects.")
