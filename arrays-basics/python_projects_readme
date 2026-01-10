@@ -1,0 +1,23 @@
+# Marks Analyzer Mini-Project
+
+## Description
+This beginner-level Python project demonstrates:
+- How to take user input and store it in a list
+- Using `for` loops to iterate over the list
+- Calculating the total sum of numbers
+- Identifying even numbers in the list
+- Conditional statements to check for marks greater than 50
+
+---
+
+## Features
+1. Takes 6 marks as input from the user
+2. Stores them in a list
+3. Calculates the total marks
+4. Prints all even marks
+5. Checks if any mark is greater than 50 and prints a congratulatory message
+
+---
+
+## Author
+Devendra Kumar Prajapat
