@@ -1,0 +1,26 @@
+# Student Data Analyzer (Python)
+
+This is a beginner-friendly Python program that demonstrates how to use:
+- Dictionary
+- List
+- for loop
+- Basic calculations
+
+The program calculates the average marks of a student.
+
+---
+
+## 📌 Features
+- Stores student details using a dictionary
+- Uses a list to store multiple marks
+- Calculates average marks using a loop
+- Easy to understand for beginners
+
+---
+
+## 🛠 Technologies Used
+- Python 3
+
+---
+
+## 📂 File Structure
