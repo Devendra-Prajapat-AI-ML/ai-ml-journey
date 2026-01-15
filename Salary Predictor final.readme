@@ -1,0 +1,13 @@
+# Day 15: Salary Predictor AI (Simple Linear Regression)
+
+### 🚀 Project Overview
+This project implements a Machine Learning model to predict an employee's salary based on their years of experience using the **Simple Linear Regression** algorithm.
+
+### 🛠️ Technical Highlights:
+* **Framework:** Scikit-Learn
+* **Data Processing:** Handled via Pandas
+* **Validation Strategy:** Implemented `train_test_split` (80% Train, 20% Test) to ensure model reliability.
+* **Evaluation:** Used R-squared score to measure prediction accuracy.
+
+### 📊 Performance:
+* **Accuracy:** 99.38%
