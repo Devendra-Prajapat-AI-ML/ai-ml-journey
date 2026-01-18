@@ -8,47 +8,53 @@ Focus areas:
 - Machine Learning basics
 - Practice with recall and explanation
 
-Goal:
-To build strong fundamentals and become job-ready in AI/ML.
+# AI & Machine Learning Journey: 50-Day Challenge 🚀
 
+### 👤 About Me
+My name is **Devendra Kumar Prajapat**. I am an aspiring AI/ML Engineer. My mission is to master Artificial Intelligence and Machine Learning within 50 days to secure a high-impact role in the industry.
 
-# 🚀 50-Days AI/ML Challenge
+# 🚀 50 Days of AI/ML: Mission 15 LPA
+**By Devendra Kumar Prajapat (Dev)** | **Guided by: Tricky (AI)**
 
-नमस्ते! मेरा नाम **Devendra** है। मैं एक पार्ट-टाइम कंप्यूटर PGT हूँ और अब मैं अगले 50 दिनों में AI/ML सीखकर 15 LPA वाली जॉब हासिल करने के मिशन पर हूँ। यह रिपॉजिटरी मेरी रोज़ाना की प्रोग्रेस और लर्निंग्स को ट्रैक करने के लिए है।
-
----
-
-## 📅 Day-wise Progress Tracker
-
-### ✅ Day 1: The Foundation
-- मशीन लर्निंग और ट्रेडिशनल प्रोग्रामिंग के बीच का अंतर समझा।
-- Linear Regression के बेसिक्स ($y = mx + c$) सीखे।
-- **Key Learning:** मॉडल का `m` (Slope) और `c` (Intercept) कैसे काम करता है।
-
-### ✅ Day 2: Data Cleaning Basics
-- सीखा कि अधूरा डेटा (Missing Values) मॉडल को कैसे बर्बाद कर सकता है।
-- **Handling Missing Data:** Mean/Median से खाली जगह भरना।
-- **Outliers:** 160 साल के बच्चे वाले उदाहरण से समझा कि खराब डेटा को हटाना क्यों ज़रूरी है।
-
-### ✅ Day 3: Pro Setup & Feature Scaling (Today)
-- **Setup:** लैपटॉप पर Anaconda और VS Code का प्रोफेशनल सेटअप पूरा किया।
-- **Jupyter Notebook:** VS Code के अंदर पहली नोटबुक चलाई।
-- **Feature Scaling:** `StandardScaler` का इस्तेमाल करके 'Salary' और 'Age' जैसे अलग-अलग रेंज वाले डेटा को एक ही स्केल पर लाना सीखा।
-- **Code implementation:** `sklearn` लाइब्रेरी का इस्तेमाल करके डेटा को फिट और ट्रांसफॉर्म किया।
-
-"Day 4: Data Preprocessing on Titanic dataset. Handled missing values (Age), dropped irrelevant features (Cabin), and      performed Label Encoding (Sex)."
----
-
-## 🛠️ Tools I'm using:
-- **Language:** Python 🐍
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
-- **IDE:** VS Code (with Jupyter Extension)
-- **Environment:** Anaconda (Conda)
+### 👤 Profile
+I am a Computer PGT Teacher transitioning into a high-growth AI/ML career. This repository tracks my daily grind, coding logic, and project development.
 
 ---
 
-## 🎯 Goal:
-- **50 दिनों में AI/ML एक्सपर्ट बनना।**
-- **15 LPA वाली जॉब हासिल करना।**
+### 📅 Daily Progress Tracker (Timeline)
 
-*Trigger Word:* **"Tricky"** (यह मेरा AI गाइड है जो मुझे इस सफर में ट्रेन कर रहा है!)
+#### 🟢 Phase 1: Python & Data Fundamentals
+* **Day 1 (Jan 01):** Introduction to AI/ML concepts and setting up the roadmap.
+* **Day 2 (Jan 02):** Understanding Data Types and Basic Python Logic.
+* **Day 3 (Jan 09):** Setup Day! Configured Anaconda & VS Code. Worked on `day3_practice` with basic CSV loading.
+* **Day 4 (Jan 10):** Data Cleaning Basics. Handled `day4_practice` focusing on identifying null values.
+* **Day 5 (Jan 11):** Built a "Student Data Analyzer" to practice filtering and sorting data using Pandas.
+
+#### 🟡 Phase 2: Exploratory Data Analysis (EDA)
+* **Day 6 (Jan 12):** Deep dive into the Titanic Dataset. Understood why Feature Selection is crucial for ML.
+* **Day 7 (Jan 13):** **Project Milestone:** Finished `final_project_titanic_with_accuracy`. Achieved my first prediction model.
+* **Day 8 (Jan 14):** Exploring Matplotlib. Created basic charts to visualize data distributions.
+
+#### 🟠 Phase 3: Linear Regression Mastery
+* **Day 9 (Jan 15):** Introduction to Simple Linear Regression. Built the `salary_prediction-final-project`.
+* **Day 10 (Jan 16):** Refined the Salary Predictor. Learned about $y = mx + c$ and the line of best fit.
+* **Day 11 (Jan 17):** **Logic Building:** Switched to core Python to build a `Calculator.py` with error handling to strengthen programming roots.
+* **Day 12 (Jan 18):** Transitioning to **Multiple Linear Regression**. Learning how to handle multiple independent variables (Experience, Test Score, Interview Score).
+
+---
+
+### 📂 Key Projects Highlights
+
+| Jan 13 | **Titanic Survivor Predictor** | Scikit-Learn, Pandas | Predicted survival based on Age, Sex, and Class. |
+| Jan 15 | **Salary Predictor (Simple)** | Linear Regression | Predicted salary based on years of experience. |
+
+
+---
+
+### 🛠️ My Tech Toolbox
+* **Language:** Python 🐍
+* **ML Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib.
+* **Editors:** VS Code (Primary), Thonny (Logic testing), Jupyter Notebook.
+* **Environment:** Anaconda (Conda) for package management.
+
+---
