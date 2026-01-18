@@ -1,0 +1,39 @@
+# Simple Calculator Program for Beginners
+# Created on: Jan 17, 2026
+
+print("--- Welcome to My Simple Calculator ---")
+
+# Step 1: Taking input from the user
+# We use float() so the user can calculate decimals too
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+
+# Step 2: Asking for the operation
+print("Select Operation: +, -, *, /")
+operation = input("Enter operator: ")
+
+# Step 3: Performing the calculation based on the operator
+if operation == '+':
+    result = num1 + num2
+    print(f"The sum is: {result}")
+
+elif operation == '-':
+    result = num1 - num2
+    print(f"The difference is: {result}")
+
+elif operation == '*':
+    result = num1 * num2
+    print(f"The product is: {result}")
+
+elif operation == '/':
+    # Adding a small check to prevent division by zero
+    if num2 != 0:
+        result = num1 / num2
+        print(f"The division result is: {result}")
+    else:
+        print("Error! You cannot divide by zero.")
+
+else:
+    print("Invalid operator! Please try again with +, -, *, or /.")
+
+print("--- Thank you for using my calculator ---")
