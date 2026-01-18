@@ -1,0 +1,7 @@
+#### 1. Simple Interactive Calculator
+* **File:** `Calculator.py`
+* **Description:** A user-friendly calculator that performs basic arithmetic operations (+, -, *, /).
+* **Key Features:** * Takes user input for numbers and operators.
+    * Includes `float` conversion to support decimal calculations.
+    * Basic error handling for "Division by Zero" and invalid inputs.
+* **Concepts Used:** Conditional Statements (`if-elif-else`), User Input, Data Type Casting.
