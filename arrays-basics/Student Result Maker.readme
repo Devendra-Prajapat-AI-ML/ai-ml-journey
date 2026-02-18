@@ -1,0 +1,29 @@
+Student Marks Calculator (Python)
+Project Description
+This is a simple Python project designed for 12th standard level students.
+The program takes marks of 5 subjects as input, calculates total marks, percentage, and assigns a grade based on performance.
+
+Features:
+
+Input student name
+
+Input marks for 5 subjects
+
+Calculate total marks
+
+Calculate percentage
+
+Assign grade (A+, A, B, C, Fail)
+
+Display final result
+
+---Concepts Used---
+
+Python variables
+
+Input & Output
+
+Arithmetic operations
+
+Conditional statements (if-elif-else)
+
